@@ -23,6 +23,10 @@ if it is a page
 or single post it will have an h1 tag. The footer contains some
 acknowledgements.
 
+To use this, just download the entire contents of this repository, have them in
+a folder when you unzip them, and place it under
+wp-content/themes in your WordPress installation.
+
 ## Customizing
 
 At the moment, I haven't made any theme options availabe through the
