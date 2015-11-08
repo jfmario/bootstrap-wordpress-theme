@@ -11,6 +11,11 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<!-- change the link in the href attribute to another bootswatch css file if you want -->
 	<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/cerulean/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/styles/default.min.css">
+	
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    
 	<title><?php bloginfo () ?></title>
 </head>
 <body>
