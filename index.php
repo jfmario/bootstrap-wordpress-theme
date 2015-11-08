@@ -11,7 +11,9 @@
                         <div class="page-header">
                             <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                         </div>
-                     
+                        
+                        <p class="text-primary">Posted: <?php the_time('Y F d'); ?> <?php the_time('H:m'); ?></p>
+                         
                         <div class="entry">
                             
                             <?php the_post_thumbnail(); ?>
