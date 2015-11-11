@@ -1,3 +1,4 @@
+<?php remove_filter ('the_content', 'wpautop'); ?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js">
 <head>
